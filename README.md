@@ -1,4 +1,5 @@
 # "To install, drag this icon..." no more!
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/satakeh/homebrew-cask?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://travis-ci.org/caskroom/homebrew-cask.png?branch=master)](https://travis-ci.org/caskroom/homebrew-cask)
 [![Code Climate](https://codeclimate.com/github/caskroom/homebrew-cask.png)](https://codeclimate.com/github/caskroom/homebrew-cask)
